@@ -2,5 +2,12 @@ module.exports = {
   siteMetadata: {
     title: "trilhalab-website",
   },
-  plugins: [],
+  plugins: [
+    {
+      resolve: "gatsby-plugin-s3",
+      options: {
+        bucketName: "trilhasaberlabs-gatsby",
+      },
+    },
+  ],
 };

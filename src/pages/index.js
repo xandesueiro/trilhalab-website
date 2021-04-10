@@ -139,6 +139,7 @@ const IndexPage = () => {
         </span>
       </h1>
       <h2>Trabalhando com pipeline no Gitlab</h2>
+      <h2>Estamos publicando este site no S3 por uma pipeline automatizada no Gitlab!!!</h2>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time.{" "}
