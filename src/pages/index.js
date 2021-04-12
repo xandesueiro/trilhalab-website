@@ -141,7 +141,7 @@ const IndexPage = () => {
       <h2>Trabalhando com pipeline no Gitlab</h2>
       <h2>Estamos publicando este site no S3 AWS por uma pipeline automatizada no Gitlab!!!</h2>
       <h2>E tambem publicando de uma maquina EC2 AWS</h2>
-      <h3>From Gitlab To Github (mirroring repositories)</h3>
+      <h3>From Gitlab To Github (mirroring repositories - NEW)</h3>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time.{" "}
