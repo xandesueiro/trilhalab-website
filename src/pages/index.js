@@ -133,7 +133,6 @@ const IndexPage = () => {
         Congratulations
         <br />
         <span style={headingAccentStyles}>— xandesueiro just made a Gatsby site! </span>
-        <div>Owner Version: %%OWNER_PIPELINE%%</div>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
@@ -143,6 +142,7 @@ const IndexPage = () => {
       <h2>E tambem publicando de uma maquina EC2 AWS</h2>
       <h3>From Gitlab To Github (mirroring repositories - NEW NEW NEW)</h3>
       <p style={paragraphStyles}>Tentativa 5 - It Works! </p>
+
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time.{" "}

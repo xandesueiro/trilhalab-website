@@ -104,5 +104,4 @@ deploy to production tests:
   script:
     - curl -s "http://$PRODUCTION_DOMAIN" | tac | tac | grep -q "AWS"
     - curl -s "http://$PRODUCTION_DOMAIN" | tac | tac | grep -q "S3"
-    - curl -s "http://$PRODUCTION_DOMAIN" | tac | tac | grep -q "$GITLAB_USER_NAME"
   cache: {}
