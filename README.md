@@ -8,6 +8,8 @@
 
   > href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
 
+## Owner: xandesueiro
+
 ## 🚀 Quick start
 
 1. **Create a Gatsby site.**
