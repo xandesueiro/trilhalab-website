@@ -133,6 +133,7 @@ const IndexPage = () => {
         Congratulations
         <br />
         <span style={headingAccentStyles}>— xandesueiro just made a Gatsby site! </span>
+        <div>Owner Version: %%OWNER_PIPELINE%%</div>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
