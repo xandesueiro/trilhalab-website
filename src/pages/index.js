@@ -137,6 +137,10 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
       </h1>
+      <h2>
+        <div>Pipeline Version: %%VERSION%%</div>
+        <div>Owner Version: %%OWNER_PIPELINE%%</div>
+      </h2>
       <h2>Trabalhando com pipeline no Gitlab</h2>
       <h2>Estamos publicando este site no S3 AWS por uma pipeline automatizada no Gitlab!!!</h2>
       <h2>E tambem publicando de uma maquina EC2 AWS</h2>
